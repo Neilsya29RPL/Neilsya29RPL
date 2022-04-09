@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <h3>About Me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;</h3>
 
-🧕 Callme: ***She/Her*** or ***TeamWorker*** 😊 <br>
+🧕 Callme: Neilsya 😊 <br>
 💻 I'm a full stack web developer <br>
 🎨 I'm a UI/UX designer <br>
 🏫 I'm a student at SMK Telkom Malang <br>
