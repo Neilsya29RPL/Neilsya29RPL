@@ -57,6 +57,7 @@ Here are some ideas to get you started:
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma-ide&logoColor=2C2255)
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-Photoshop)&nbsp;
+![Blender](https://img.shields.io/blender/-Blender-05122A?style=flat&logo=blender)&nbsp;
     </div>
     <br>
     <div align="center">
