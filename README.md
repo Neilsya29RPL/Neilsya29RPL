@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<h3>About Me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;</h3>
+<h3>About Me</h3>
 
 🧕 Callme: Neilsya 😊 <br>
 💻 I'm a full stack web developer <br>
