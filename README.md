@@ -1,7 +1,7 @@
 <div align="center">
 
   
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'am Neilsya Amstrani! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'am Neilsya Amstrani!</h2>
 </div>
 
 ![followers](https://img.shields.io/github/followers/Neilsya29RPL?style=social)
