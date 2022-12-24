@@ -28,9 +28,8 @@ Here are some ideas to get you started:
 
 🧕 Callme: Neilsya 😊 <br>
 💻 I'm a full stack web developer <br>
-🎨 I'm a UI/UX designer <br>
+🎨 I'm a Quality Assurance <br>
 🏫 I'm a student at SMK Telkom Malang <br>
-📺 I make UI/UX content on [Instagram](https://www.instagram.com/uiux_neilsya/) & [Behance](https://www.behance.net/neilsyaamstrani/projects) <br>
  </div>
  
  <br><br>
